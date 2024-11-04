@@ -1,0 +1,8 @@
+# Dataset
+/Dataset/*
+
+# model weight
+*.pt
+
+# 제출 파일
+task.ipynb

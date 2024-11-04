@@ -1,0 +1,9 @@
+python train.py \
+    --version teacher \
+    --seed 214 \
+    --lr 1e-6 \
+    --optimizer Adam \
+    --epochs 10 \
+    --batch-size 64 \
+    --weight-decay 0.2 \
+    --loss-weight True \
